@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishna Kumar Tiwari</h1>
-<h3 align="center">A passionate frontend A passionate Full Stack Web Developer from Indiadeveloper from India</h3>
+<h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
 - 💬 Ask me about **MERN Stack**
 
